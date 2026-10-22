@@ -1,0 +1,14 @@
+name: CombatLog
+version: 1.0
+main: me.fix.combatlog.CombatLog
+api-version: '1.21'
+commands:
+  combatlog:
+    description: CombatLog admin command
+    permission: combatlog.admin
+permissions:
+  combatlog.admin:
+    default: op
+  combatlog.bypass:
+    description: Not affected by combat tag
+    default: false

@@ -1,0 +1,53 @@
+COMBAT-MANAGER:
+  ENABLED: true
+  COOLDOWN: 60 # In seconds
+  ACTION-BAR: '&fCombat: &#00A4FC{time}s'
+  # Get combat on (only when a PLAYER hits another player):
+  ENDER-CRYSTAL: true
+  ENDER-PEARL: true
+  RESPAWN-ANCHOR: true
+  WIND-CHARGE: true
+  SPEAR: true
+  # Also tag the attacker (default: only the player who got hit)
+  TAG-ATTACKER: false
+  # Items that can't be used while in combat
+  BLOCK-INTERACTIONS:
+    ENABLED: false
+    ITEMS:
+    - FIREWORK_ROCKET
+  ANTI-STASIS-CHAMBER:
+    ENABLED: true
+    MAX-DISTANCE: 500
+    PREVENT-WORLD-CHANGE: true
+  # Block /tp-like teleports (command/plugin) and portals while in combat
+  BLOCK-TELEPORT: true
+  BLOCK-PORTALS: true
+  # In the last X seconds of combat the player can log out without losing items.
+  # Getting hit again cancels it.
+  SAFE-LOGOUT-SECONDS: 5
+  SAFE-LOGOUT-MESSAGE: '&aYou can now leave the server safely without losing your items. Getting hit cancels this.'
+  START-MESSAGE: '&cYou are in combat! Do not log out.'
+  END-MESSAGE: '&aYou are no longer in combat.'
+  QUIT-BROADCAST: '&c{player} logged out during combat and lost their items.'
+  BLOCK-MESSAGE: '&cYou can''t use this command in your current status.'
+  STASIS-MESSAGE: '&cThis teleport is blocked while in combat.'
+  BLOCK-COMMANDS:
+  - /duel
+  - /queue
+  - /tpauto
+  - /rtp
+  - /homes
+  - /tpa
+  - /tpaaccept
+  - /tpaccept
+  - /tpahere
+  - /home
+  - /sethome
+  - /delhome
+  - /team
+  - /auction
+  - ah
+  - order
+  - orders
+  EXCLUDED-WORLDS:
+  - duels
