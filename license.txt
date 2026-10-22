@@ -1,0 +1,112 @@
+NOSTICKCOMBATLOG — STRICT LICENSE & TERMS OF USE
+
+Copyright © 2026 Nostick. All Rights Reserved.
+Project: NostickCombatLog
+Platform: Minecraft Java Edition
+
+---
+
+1. GRANT OF PERMISSION
+
+The original owner grants a limited, revocable, non-exclusive, non-transferable, royalty-free permission to:
+
+- Use and run the software for personal, private, or server-related purposes.
+- Access, modify, and study the source code.
+- Redistribute the original or modified software free of charge, subject to full compliance with every condition in this license.
+
+No rights are granted beyond those explicitly stated in this document.
+
+2. STRICT PROHIBITION OF COMMERCIAL USE
+
+COMMERCIAL USE IS STRICTLY PROHIBITED WITHOUT PRIOR WRITTEN AUTHORIZATION FROM THE ORIGINAL OWNER.
+
+You may NOT, directly or indirectly:
+
+- Sell, resell, rent, lease, sublicense, or otherwise monetize this plugin or any portion of it.
+- Charge money, fees, subscriptions, donations tied to access, or other consideration for access to, delivery of, or use of this plugin or any modified version.
+- Include this plugin or any derivative version in a paid product, premium package, paid resource bundle, or commercial distribution.
+- Sell, license, or commercially exploit the source code, compiled JAR files, modified versions, or derivative works.
+- Use this software as a paid service or as a component of a commercial offering without prior written authorization.
+
+Free redistribution does not grant permission to commercialize the software.
+
+3. DERIVATIVE WORKS AND COMPETING PROJECTS
+
+You may modify the software only under the conditions of this license.
+
+You may NOT:
+
+- Use this project's source code or substantial portions of it to create, market, or distribute a competing commercial product or service.
+- Rebrand, rename, or present a modified version as an independently owned project.
+- Claim authorship or ownership of the original code, design, or implementation.
+- Use modifications as a means of bypassing the restrictions imposed by this license.
+
+Any permitted redistribution of a modified version remains subject to this license and all applicable attribution requirements.
+
+4. MANDATORY ATTRIBUTION AND COPYRIGHT PRESERVATION
+
+CREDIT REMOVAL OR MISREPRESENTATION OF OWNERSHIP IS STRICTLY PROHIBITED.
+
+Every copy, fork, modification, redistribution, or derivative version must:
+
+- Retain all original copyright notices and license terms.
+
+- Include the following attribution prominently in the distributed source code and accompanying documentation:
+  
+  Original Owner: Nostick | Original Project: NostickCombatLog
+
+- Preserve attribution in relevant plugin metadata, documentation, and other existing credit locations where technically applicable.
+
+- Clearly identify modifications as modifications made by the redistributor, without implying that the original owner authored or endorsed them.
+
+You may not remove, obscure, falsify, or replace the original attribution with your own.
+
+5. REDISTRIBUTION CONDITIONS
+
+Redistribution is permitted only free of charge and only if all of the following conditions are satisfied:
+
+1. This entire license is included with the redistributed software.
+2. All copyright notices and required attribution are preserved.
+3. The original project and owner are clearly credited.
+4. Modified versions are identified as modified and are not falsely represented as official releases.
+5. No additional restrictions are imposed that contradict the permissions expressly granted by this license.
+6. No commercial use or monetization prohibited by Section 2 occurs.
+
+Redistribution does not transfer ownership or grant any trademark rights.
+
+6. NO ENDORSEMENT OR OFFICIAL STATUS
+
+You may not imply that a modified, forked, or redistributed version is official, authorized, certified, or endorsed by Nostick unless explicit written authorization has been granted.
+
+The names Nostick and NostickCombatLog may not be used to mislead users regarding the origin or official status of a modified release.
+
+7. TERMINATION OF PERMISSION
+
+Any violation of this license automatically terminates the permissions granted to the violating party to the extent permitted by applicable law.
+
+Following termination, the violating party must cease the unauthorized use, distribution, and other activities covered by the terminated permissions.
+
+Termination does not waive any rights or remedies available to the original owner under applicable law.
+
+8. NO WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, DATA LOSS, SERVER DAMAGE, SERVICE INTERRUPTION, OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+9. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this license are reserved by the original owner.
+
+No provision of this license grants permission to sell, commercially exploit, or claim ownership of the original project.
+
+10. ACCEPTANCE OF TERMS
+
+By downloading, copying, modifying, using, or redistributing this software, you acknowledge that you have read and understood these terms and agree to comply with them.
+
+If you do not agree to these terms, you must not use, modify, or redistribute the software.
+
+---
+
+Copyright © 2026 Nostick. All Rights Reserved.
+Original Owner: Nostick | Original Project: NostickCombatLog
